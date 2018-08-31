@@ -1,0 +1,19 @@
+{
+  "name": "beckmanfold",
+  "version": "1.0.0",
+  "description": "attempt to translate beckman work with Fold (https://www.johndcook.com/blog/2016/07/14/kalman-filters-and-functional-programming/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GodefroyClair/beckmanFold.git"
+  },
+  "author": "Godefroy Clair",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GodefroyClair/beckmanFold/issues"
+  },
+  "homepage": "https://github.com/GodefroyClair/beckmanFold#readme"
+}
